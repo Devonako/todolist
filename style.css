@@ -1,0 +1,13 @@
+body {
+    font-family: sans-serif; 
+}
+
+#task-list {
+    list-style: none; /* Removes bullet points */
+    padding: 0;
+}
+
+li {
+    padding: 10px;
+    border-bottom: 1px solid #eee; /* Adds a subtle separator */
+}
